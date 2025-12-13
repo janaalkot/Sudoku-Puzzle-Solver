@@ -7,7 +7,7 @@ This application provides an intelligent Sudoku solver using two algorithms:
 
 The GUI allows users to input puzzles, select algorithms, and visualize solutions.
 """
-
+## this is comment
 from gui.gui import main as gui_main
 
 def main():
