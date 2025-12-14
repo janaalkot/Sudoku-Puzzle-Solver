@@ -1,8 +1,7 @@
-from algorithms.backtracking import sayHello
-from algorithms.cultural import sayHelloCA
+from gui.gui import main as gui_main
+
 def main():
-    sayHello()
-    sayHelloCA()
+    gui_main()
 
 if __name__ == "__main__":
     main()
